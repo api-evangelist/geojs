@@ -1,0 +1,32 @@
+aid: geojs
+name: GeoJS
+description: "IP geolocation with ChatOps integration"
+url: https://www.geojs.io/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Geocoding"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Geocoding
+  - Public APIs
+apis:
+  - name: GeoJS
+    description: "IP geolocation with ChatOps integration"
+    humanURL: https://www.geojs.io/
+    baseURL: https://www.geojs.io/
+    tags:
+      - Geocoding
+    properties:
+      - type: Documentation
+        url: https://www.geojs.io/
+common:
+  - type: Website
+    url: https://www.geojs.io/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
