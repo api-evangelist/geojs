@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.geojs.io/
 common:
+  - type: DomainSecurity
+    url: security/geojs-domain-security.yml
   - type: Website
     url: https://www.geojs.io/
   - type: PublicAPIsListing
