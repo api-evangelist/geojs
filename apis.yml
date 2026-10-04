@@ -39,7 +39,6 @@ apis:
   - name: GeoJS
     description: "IP geolocation with ChatOps integration"
     humanURL: https://www.geojs.io/
-    baseURL: https://www.geojs.io/
     tags:
       - Geocoding
     properties:
